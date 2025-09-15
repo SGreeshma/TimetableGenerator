@@ -1,4 +1,4 @@
-#TIMETABLE GENERATOR
+# TIMETABLE GENERATOR
 A simple Java Swing application that allows users to generate and manage a weekly timetable for classes.
 It provides an interactive GUI where subjects and teachers can be assigned to different days and periods.
 
@@ -15,19 +15,17 @@ GUI Library: Swing
 Table Management: JTable with DefaultTableModel
 
 ## How to Run
-Clone this repository:
+- Clone this repository:
 git clone https://github.com/your-username/TimeTableGenerator.git
-
-Navigate to the project folder:
+- Navigate to the project folder:
 cd TimeTableGenerator
-
-Compile the program:
+- Compile the program:
 javac TimeTableGenerator.java
-
-Run the program:
+- Run the program:
 java TimeTableGenerator
 
-## Screenshot (Optional)
+## Screenshot 
+<img width="864" height="537" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/5aef6d01-b8fb-45f0-af3c-5c2f787bb578" />
 
 Add a screenshot of the timetable window here after running the app.
 
